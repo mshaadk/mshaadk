@@ -2,7 +2,7 @@
 Hi there! I'm **Mohamed Shaad**, a passionate **Data Scientist** and **Machine Learning Engineer**. I'm currently building data-driven solutions that enhance brand-influencer collaborations and empower businesses to make insightful decisions.<br><br>
 
 # 🧑‍💻 What I Do:
-Data Science & Machine Learning: I work on developing and optimizing machine learning models to solve complex problems across various domains, from natural language processing to computer vision.<br>AI & NLP: I have a keen interest in AI agents and language models, focusing on creating empathetic AI that can understand and respond to human emotions.<br>Project Management: With experience in project management, I ensure that AI projects are delivered efficiently and effectively, driving innovation and results.
+**Data Science & Machine Learning**: <br>I work on developing and optimizing machine learning models to solve complex problems across various domains, from natural language processing to computer vision.<br>**AI & NLP**: I have a keen interest in AI agents and language models, focusing on creating empathetic AI that can understand and respond to human emotions.<br>**Project Management**: With experience in project management, I ensure that AI projects are delivered efficiently and effectively, driving innovation and results.
 
 
 ## 🌐 Socials:
