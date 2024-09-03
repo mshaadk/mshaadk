@@ -7,6 +7,12 @@
 # 💫 About Me:
 Hi there! I'm **Mohamed Shaad**, a passionate **Data Scientist** and **Machine Learning Engineer**. <br><br>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamedshaad/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+</p>
+
 # 🧑‍💻 What I Do:<br>
 I'm currently building data-driven solutions that enhance brand-influencer collaborations at [BrandCollab](https://brandcollab.app/).
 
@@ -19,11 +25,6 @@ I'm currently building data-driven solutions that enhance brand-influencer colla
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mshaadk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mshaadk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamedshaad/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mshaadk&limit=5&theme=dark&combine_all_yearly_contributions=true)
