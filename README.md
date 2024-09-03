@@ -5,7 +5,7 @@
 </p>
 
 # ⚠️ Note
-Please be aware that my previous GitHub account was flagged. As a result, I have created this new account to continue sharing my work and collaborating with the community.I appreciate your understanding and support as I rebuild my projects and contributions here. If you were following my previous account, I encourage you to follow this one to stay updated with my latest work.
+Please be aware that my previous GitHub account was flagged. As a result, I have created this new account to continue sharing my work and collaborating with the community. I appreciate your understanding and support as I rebuild my projects and contributions here. If you were following my previous account, I encourage you to follow this one to stay updated with my latest work.
 
 # 💫 About Me:
 Hi there! I'm [**Mohamed Shaad**](https://linkedin.com/in/https://www.linkedin.com/in/mohamedshaad/), a passionate **Data Scientist** and **Machine Learning Engineer**. 
