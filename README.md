@@ -23,4 +23,9 @@ I'm currently building data-driven solutions that enhance brand-influencer colla
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mshaadk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+#⚠️ Note
+Please be aware that my previous GitHub account was flagged. As a result, I have created this new account to continue sharing my work and collaborating with the community.I appreciate your understanding and support as I rebuild my projects and contributions here. If you were following my previous account, I encourage you to follow this one to stay updated with my latest work.
+
+
+
 
