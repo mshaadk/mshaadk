@@ -1,5 +1,5 @@
 # ⚠️ Note
-Please be aware that my previous GitHub account was flagged. As a result, I have created this new account to continue sharing my work and collaborating with the community. I appreciate your understanding and support as I rebuild my projects and contributions here. 
+I’m happy to inform you that my previously suspended [GitHub account (shaadclt)](https://github.com/shaadclt) has been restored. Moving forward, I will primarily use that account, but I’ll keep this one as a secondary account for backup and additional collaboration. Thank you for your understanding and support! 
 
 # 💫 About Me:
 Hi there! I'm [**Mohamed Shaad**](https://www.linkedin.com/in/mohamedshaad/), a passionate **Data Scientist** and **Machine Learning Engineer**. 
